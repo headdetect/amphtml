@@ -181,10 +181,8 @@ Regularly advances to the next slide without user interaction. If the user manua
 
 If present without a value:
 
-<ul>
-  <li>By default, advances a slide in 5000 millisecond intervals (5 seconds); this can be overridden by the `delay` attribute.</li>
-  <li>Requires at least 2 slides for autoplay to occur.</li>
-</ul>
+- By default, advances a slide in 5000 millisecond intervals (5 seconds); this can be overridden by the `delay` attribute.
+- Requires at least 2 slides for autoplay to occur.
 
 If present with a value:
 
